@@ -1,23 +1,90 @@
-# Basic Network Topology Lab
+# \# Packet Tracer Labs
 
-## Objective
-Build a simple local area network using one switch and three PCs.
+# 
 
-## Devices Used
-- 1 Cisco 2960 Switch
-- 3 PCs
+# A collection of hands-on networking labs created using Cisco Packet Tracer while studying networking fundamentals, troubleshooting, and network configuration.
 
-## IP Addressing
-- PC0: 192.168.1.10
-- PC1: 192.168.1.11
-- PC2: 192.168.1.12
-- Subnet Mask: 255.255.255.0
+# 
 
-## Connectivity Testing
-Performed successful ping tests between all PCs.
+# \## About
 
-## Skills Practiced
-- Static IP configuration
-- Basic switching
-- Network topology setup
-- Connectivity testing using ping
+# This repository documents my practical networking exercises completed while learning IT support and networking concepts through independent study and certification training.
+
+# 
+
+# \## Skills Demonstrated
+
+# \- Network topology design
+
+# \- Static IP configuration
+
+# \- Basic switch configuration
+
+# \- Connectivity testing using ping
+
+# \- Troubleshooting network communication
+
+# \- Network documentation
+
+# 
+
+# \## Tools Used
+
+# \- Cisco Packet Tracer
+
+# 
+
+# \## Current Training
+
+# \- Cisco Networking Academy
+
+# \- Technical Support Fundamentals (Coursera)
+
+# \- CompTIA A+ Certification (In Progress)
+
+# 
+
+# \## Labs
+
+# 
+
+# \### Basic Network Topology
+
+# \*\*Objective:\*\* Build a simple LAN with one switch and three PCs using static IP addressing.
+
+# 
+
+# \*\*Skills Practiced:\*\*
+
+# \- Assigning IPv4 addresses
+
+# \- Subnet mask configuration
+
+# \- End-to-end connectivity testing
+
+# 
+
+# \*\*Files Included:\*\*
+
+# \- `basic-topology-lab.pkt`
+
+# \- `topology.png`
+
+# \- Lab documentation README
+
+# 
+
+# \## Goals
+
+# This repository will continue to grow as I complete additional labs in:
+
+# \- DHCP
+
+# \- VLANs
+
+# \- Router configuration
+
+# \- Subnetting
+
+# \- Network troubleshooting
+
